@@ -10,7 +10,9 @@ def main():
     2. int (N)
 
     It will output a list of words from S that have a length greater than N.
+
     Words are separated from each other by space characters.
+    
     Strings do not contain any special characters. (Punctuation or invisible)
 
     """
